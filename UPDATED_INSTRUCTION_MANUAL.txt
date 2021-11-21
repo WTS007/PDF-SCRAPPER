@@ -1,0 +1,73 @@
+INSTRUCTIONS
+=============
+
+Step 1: Download the folder "PYTHON PDF SCRAPPER"
+
+Step 2: Make sure the folder "PYTHON PDF SCRAPPER" is inside the Downloads folder of your system.
+
+Step 3: Inside the folder "PYTHON PDF SCRAPPER" there will be an application named "tesseract", Install it like you would any other windows application but DON'T CHANGE ANY OPTIONS in the setup wizard.
+
+Step 4: Inside the folder "PYTHON PDF SCRAPPER" there will be a zipped file named "Release-21.09.0.zip", Right click on it and select "extract here"
+
+Step 5: After the zip file is unzipped there will be folder named "poppler-21.09.0", Right click on it and select Copy
+
+Step 6: Open the "poppler-21.09.0" folder that you pasted, Inside "poppler-21.09.0" will be a folder named "bin", Open the "bin" folder 
+
+Step 7: in the "File Explorer" window you will see a dialog box showing your path, Click on it and Copy the highlighted text 
+
+Step 8: Click on the "Search Box" next to the "Start Button" and Type "env" and click on the "Edit the system environment variables" result 
+
+Step 9: Now a windoe named "System Properties" Window will pop up, click on the "Environment Variables..." button at the bottom right of the window.
+
+Step 10: Now a "Environment Variables" window will pop up, go to the "System variables" section which will be towards the bottom, select "Path" under the variable column and click "Edit" button
+
+Step 11: Now a "Edit environment variable" window will pop up, Click on the "New" button which is towards the top right corner of the window.
+
+Step 12: Now a dialog box will appear in which you can enter text, Click on it and PASTE the text you copied in "Step 7" and then click on the "OK" button
+
+Step 13: Close all other windows by clicking on "OK" button and your changes will be saved.
+
+Step 14: go to "C drive", inside "C drive" go to "programs" folder, inside "programs" folder paste the folder you copied in step 5 
+
+Step 15: Now return to the "PYTHON PDF SCRAPPER" folder, inside the folder you will find another folder named "dist"
+
+Step 16: Access the "dist" folder, inside it will be a application named "stage10"
+
+Step 17: Right Click on the "stage10" and Select "create shortcut"
+
+Step 18: once the shorcut of the "stage10" appears, now copy the shortcut and paste it in the desktop or home screen for easy access
+
+Step 19: visit https://www.python.org/downloads/    
+
+Step 20: Click on Yellow Button stating "Download Python 3.9.7"
+
+Step 21: Once the Download completes open the file
+
+Step 22: Go through the installation process but keep an eye on the installtion wizard
+
+Step 23: During the installation process, In the bottom of wizard/window you will be provided two check boxes, one of the them will label "add to path" Please make sure THE BOX IS CHECKED
+
+
+=============
+
+
+USAGE:
+
+Step 1: DOUBLE CLICK ON THE "stage10" shortcut you have created, Now two windows will pop up
+
+Step 1: The Black window you see is for showing if any error occured, PLEASE DO NOT CLOSE IT
+
+Step 3: The other window will have several buttons, To upload the pdf Click on the "Browse" button next to the "Upload PDF" label. 
+
+Step 4: The "No. of PDFs" and "Output Format" are for future updates and don't have any function now
+
+Step 5: Now select the OUTPUT location of your processed pdfs by Clicking on "Browse" button next to the "Output Location" label
+
+Step 6: Click Start
+
+Step 7: Now the "Start" button will stay in the clicked state until the task is over, and once the task is completed it will return to the state it was in before you clicked it.
+
+Step 8: Now a single file conversion will take about 8 min so please be patient.
+
+
+If you face any problem then email me at waytosingularity@gmail.com
